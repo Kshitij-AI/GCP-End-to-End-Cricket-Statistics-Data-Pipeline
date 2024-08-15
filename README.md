@@ -31,3 +31,5 @@ The architecture of the data pipeline includes the following components:
 ## Conclusion
 
 This end-to-end data pipeline showcases how to integrate various GCP services to automate the data processing workflow and visualize results.
+
+<img src="https://github.com/Kshitij-AI/GCP-End-to-End-Cricket-Statistics-Data-Pipeline/blob/master/output_vid.gif" width="1000" height="600">
