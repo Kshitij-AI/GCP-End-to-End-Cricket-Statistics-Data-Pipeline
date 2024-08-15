@@ -1,0 +1,28 @@
+{
+  "BigQuery Schema": [
+    {
+      "name": "rank",
+      "type": "STRING"
+    },
+    {
+      "name": "batsman",
+      "type": "STRING"
+    },
+    {
+      "name": "country",
+      "type": "STRING"
+    },
+    {
+      "name": "rating",
+      "type": "STRING"
+    },
+    {
+      "name": "average",
+      "type": "STRING"
+    },
+    {
+      "name": "format",
+      "type": "STRING"
+    }
+  ]
+}
